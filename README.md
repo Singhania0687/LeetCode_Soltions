@@ -1,7 +1,6 @@
 # LeetCode_Soltions
 LeetCode_Daily Challenge -Solutions
-<img src="
-https://em-content.zobj.net/thumbs/320/apple/325/man-technologist_1f468-200d-1f4bb.png![image](https://user-images.githubusercontent.com/121731620/222183649-1a998292-1d34-489a-b03b-d7bc8ba5a231.png)" alt="no_img" >
+
 
 Welcome to daily Leetcode challenge Solutions
 Here you will get all solutions of leetcodedaily challenge mainly in C++.
